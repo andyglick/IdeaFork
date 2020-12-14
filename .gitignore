@@ -7,8 +7,10 @@ target
 .settings
 .metadata
 .svn
-.idea
+.idea/
 .checkstyle
 *.patch
 .DS_Store
 ~*
+
+effective-pom.xml
